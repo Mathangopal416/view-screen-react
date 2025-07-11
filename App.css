@@ -1,0 +1,32 @@
+.nav-bar {
+  margin-top: 10px;
+  background-color: blue;
+  height: 50px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: sticky;
+  top: 0%;
+}
+
+.btn {
+  height: 2rem;
+  margin-right: 45px;
+  color: white;
+  background-color: blue;
+  border: none;
+  font-size: 15px;
+  border-radius: 5px;
+  width: 80px;
+}
+
+button:hover {
+  background-color: #ffffff;
+  color: blue;
+}
+
+.align {
+  margin-right: 80px;
+}
+
+

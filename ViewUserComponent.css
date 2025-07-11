@@ -1,0 +1,42 @@
+th,td {
+    width: 250px;
+    border-bottom: 2px solid rgb(159, 158, 158);
+    text-align: left;
+}
+
+table,th,td {
+    border-bottom: 2px solid rgb(107, 106, 106);
+    border-collapse: collapse;
+    /* width: 550px; */
+}
+
+table {
+    margin-bottom: 10px;
+    margin-right: 5px;
+    table-layout: fixed;
+    /*  width: 550px; */
+}
+
+.viewusercomponent button {
+    height: 30px;
+    width: 60px;
+    margin: none;
+
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    margin-left: 2%;
+}
+
+.viewusercomponents button:hover {
+    background-color: rgb(193, 192, 192);
+}
+
+.action {
+    text-align: center;
+}
+
+.underlines {
+    border: none;
+}
+
